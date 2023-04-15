@@ -4,7 +4,7 @@
 Рассчитать частоту встречаемости числа в списке, либо (если такого числа
 в списке нет) найти ближайшее к нему число.
 
-[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_13/tree/master/FindFrequencyOrTheNearestNumber)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_13/tree/master/FindFrequencyOrTheNearestNumber.py)
 
 ## Задача 20
 В настольной игре Скрабл (Scrabble) каждая буква имеет определенную
