@@ -4,7 +4,7 @@
 Рассчитать частоту встречаемости числа в списке, либо (если такого числа
 в списке нет) найти ближайшее к нему число.
 
-[Code](FindFrequencyOrTheNearestNumber\FindTheNearestNumber.py)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_13/blob/master/FindFrequencyOrTheNearestNumber/FindTheNearestNumber.py)
 
 ## Задача 20
 В настольной игре Скрабл (Scrabble) каждая буква имеет определенную
@@ -12,4 +12,4 @@
 Будем считать, что на вход подается только одно слово, которое содержит либо только
 английские, либо только русские буквы. 
 
-[Code](ScoreDictionaryPoints\ScoreDictionaryPoints.py)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_13/blob/master/ScoreDictionaryPoints/ScoreDictionaryPoints.py)
